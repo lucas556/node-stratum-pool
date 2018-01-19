@@ -28,7 +28,7 @@
         "url": "https://github.com/lucas556/node-stratum-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git"
+        "multi-hashing": "https://github.com/Snipa22/node-multi-hashing-aesni.git"
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
